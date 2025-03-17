@@ -11,6 +11,7 @@
 <ul>
         <li>Animations</li>
         <li>Library Usage</li>
+        <li>Cursor Manipulation</li>
         <li>BaaS Technologies</li>
 </ul>
 

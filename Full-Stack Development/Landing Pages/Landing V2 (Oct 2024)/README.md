@@ -7,7 +7,7 @@
         <li>Entirely static site.</li>
 </ul>
 
-<h3>Skills Learned:</h3>
+<h3>Employed Skills:</h3>
 <ul>
         <li>Animations</li>
         <li>Library Usage</li>

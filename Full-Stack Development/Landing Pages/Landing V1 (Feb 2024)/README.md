@@ -1,5 +1,5 @@
 <h1 align="center">Mobile App Landing Page</h1>
-<p align="center">AiME Technologies - Mar 2024</p>
+<p align="center">AiME Technologies - Feb 2024</p>
 
 <ul>
         <li>Gateway project into front-end development.</li>

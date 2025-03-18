@@ -25,8 +25,8 @@ try:
     username = driver.find_element(By.ID, "username")
     password = driver.find_element(By.ID, "password")
 
-    username.send_keys("zainfromibld@gmail.com")
-    password.send_keys("openDoor99")
+    username.send_keys("#")
+    password.send_keys("#")
     password.send_keys(Keys.RETURN)
 
     time.sleep(1)

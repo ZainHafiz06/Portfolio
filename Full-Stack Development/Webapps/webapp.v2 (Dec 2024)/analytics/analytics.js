@@ -204,7 +204,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
 
             height: '200%',
-            width: '500%',
+            width: '100%',
 
             sparkline: {
                 enabled: true
@@ -275,6 +275,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             },
         },
+
+        responsive: [
+            {
+              breakpoint: 768,
+              options: {
+                chart: {
+                  width: "100%",
+                },
+              },
+            },
+        ],          
 
         xaxis: {
             labels: {

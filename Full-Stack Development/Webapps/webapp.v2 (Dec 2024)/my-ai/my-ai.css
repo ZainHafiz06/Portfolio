@@ -30,7 +30,7 @@
     --cell-width-2b: 15px;
     --cell-width-3: 15px;
 
-    /* */
+    /* Status - Color Codes */
     --green-text: #02C27A;
     --yellow-text: #FFD700;
     --red-text: #EE4B2B;
@@ -1545,5 +1545,19 @@ nav {
     .lh-c,
     .rh-c {
         width: 100%;
+    }
+
+    /* Hero Section: Tiles - Presets */
+    .tile-1 .tileHeader {
+        flex-direction: column;
+    }
+
+    .tileHeaderImg,
+    .tileHeaderIcon {
+        display: none;
+    }
+
+    .tableRow .row-4 {
+        display: none;
     }
 }
